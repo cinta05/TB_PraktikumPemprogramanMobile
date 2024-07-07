@@ -1,8 +1,7 @@
 # Tugas Besar Praktikum Pemprograman Mobile
 
-Kelompok 9
+## Kelompok 9
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
